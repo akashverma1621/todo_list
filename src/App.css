@@ -1,0 +1,41 @@
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main2{
+  background: lightpink;
+  width:50%;
+  height: auto;
+  padding: 20px;
+  border: 5px solid slategrey;
+}
+h2{
+  text-align: center;
+}
+form{
+  text-align: center;
+  font-size: larger;
+}
+.two{
+  display: flex;
+flex-direction: column;
+width: 100%;
+margin-top: 10px;
+background: darkseagreen;
+ text-align: center;
+}
+
+.show{
+  display: flex;
+  float: right;
+  
+}
+.box{
+ display: flex;
+ height: 20px;
+ width: 100%;
+ align-items:stretch;
+ flex-direction: column;
+}
+
